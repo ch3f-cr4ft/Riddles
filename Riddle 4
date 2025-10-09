@@ -1,0 +1,32 @@
+# Whispering Threads — a small puzzle
+
+**Oct 9, 2025 • by @ch3f_cr4ft • category: puzzles**
+
+> Found scrawled on an old ops napkin between coffee stains and code: a tiny stanza and a task.
+>
+> **Riddle:**  
+> The frame is thin but the story long,  
+> Off-by-one hums a quiet song.  
+> A pointer nods, a return set free —  
+> Follow the rhyme and count to three.
+>
+> If you like digging where others glance away, check commits, images, and the faint echo of old newsgroups.
+>
+> Little hints: read hex lightly. Listen to the whales. 🍝
+
+---
+
+If you want to play, start by viewing the repo source and see what the old ops left behind. This is a harmless lab puzzle — no real credentials are used.
+
+---
+
+<!--
+Dev scratchpad / archival notes:
+Author: @ch3f_cr4ft
+Context: lab puzzle — authorized environment only
+
+Hidden operator command (lab-only; visible in source):
+openssl enc ??? -d -salt -in <<program>> -out decrypt.c -k "ImSteve"
+
+Extra nudge: hex entities earlier in the codebase were intentional. Check image metadata and commit messages for echoes.
+-->
